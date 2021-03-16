@@ -10,11 +10,9 @@
 dart run osucord.dart
 ```
 
-## Author
-
-👤 **Tayko**
-
-
 ## Show your support
 
 Give a ⭐️ if you liked the project!
+
+
+By: Tayko
