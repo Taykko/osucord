@@ -2,7 +2,7 @@
 <p>
 </p>
 
-> Osu! ranked beatmaps notifier
+> An osu! ranked beatmaps notifier
 
 ## Usage
 
