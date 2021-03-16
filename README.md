@@ -10,7 +10,7 @@
 dart run osucord.dart
 ```
 
-## Show your support
+## Support
 
 Give a ⭐️ if you liked the project!
 
