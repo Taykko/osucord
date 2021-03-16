@@ -10,6 +10,10 @@
 dart run osucord.dart
 ```
 
+## Dart installation
+
+https://dart.dev/get-dart
+
 ## Support
 
 Give a ⭐️ if you liked the project!
