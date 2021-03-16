@@ -1,5 +1,5 @@
 name: osucord
-description: Osu! ranked beatmaps notifier
+description: An osu! ranked beatmaps notifier
 
 environment:
   sdk: ">=2.0.0 <3.0.0"
